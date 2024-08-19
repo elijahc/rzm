@@ -8,8 +8,8 @@ tags: anes-co
 This page is meant as a guide/reference/repository for specifically CU anesthesia residency.
 
 ## Links
-- [CU Anesthesia  Intranet](cupropofol.com)
-- [Anschutz Webmail](myemail.ucdenver.edu)
+- [CU Anesthesia  Intranet](https://cupropofol.com)
+- [Anschutz Webmail](http://myemail.ucdenver.edu)
 
 ### Remote Access
 - DH:  https://dhremoteaccess.dhha.org/vpn
