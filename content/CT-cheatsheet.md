@@ -72,3 +72,4 @@ tags: anes, ctanes
 
 ## References
 - [Kenji's Cheat Sheet](https://www.dropbox.com/scl/fi/mwgphuw3fam9406ueron1/Cardiac-Cheat-Sheet.pdf?rlkey=5pc48ive74laxo4l2tcuitp6u&st=j450flm8&dl=0)
+- [CT Anes Made Simple pdf](https://www.dropbox.com/scl/fi/1coxo7c2tjenbg0ixs56h/CardiacAnesthesiaMadeRidiculouslySimple.pdf?rlkey=601g563t5xxzznrcce6fuob7e&st=vpfzxu98&dl=0)
