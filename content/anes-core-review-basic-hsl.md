@@ -1,6 +1,6 @@
 ---
 title: Book - Anesthesia Core Reivew Part One Basic Exam
-tags: anes, boards, books
+tags: anes-co, boards, books
 draft: false
 ---
 ## Part 1: Basic Sciences
