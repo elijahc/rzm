@@ -4,4 +4,6 @@ title: Welcome to Quartz
 
 This site is my personal hypertext garden on the internet. Its small now but should grow overtime.
 
-See the Explore section for a list of pages.
+Currently in progress from porting notes/links from [my hackmd page](https://hackmd.io/@elijahc), among other places
+
+See the Explore section (left) for a list of pages.
