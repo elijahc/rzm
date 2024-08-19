@@ -1,5 +1,6 @@
 ---
 title: ITE Knowledge gaps 2023
+draft: false
 tags: anes, boards
 date: 2024-06-28
 ---
