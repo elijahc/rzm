@@ -1,5 +1,6 @@
 ---
 title: Anesthesia @ CU
+draft: false
 date: 2024-08-18
 tags: anes-co
 ---
