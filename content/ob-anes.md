@@ -1,6 +1,7 @@
 ---
 title: Obstetric Anesthesia Cookbook
 date: 8/23/2024
+tags: cu-anes
 draft: false
 ---
 
