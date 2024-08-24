@@ -47,7 +47,7 @@ Labor can be prolonged and painful, the most flexible option for pain control du
 
 # Cesarean Delivery
 
-## Under epidural
+## CS with epidural
 Cesarean deliveries under epidural require a more dense analgesia than laboring.
 Typical LA dose is **20cc bolus** for cesarean delivery (T4 level) but some parturients may require up to 40cc.
 C-Section's can occur across a spectrum of urgencies and will impact LA choice.
@@ -68,7 +68,7 @@ C-Section's can occur across a spectrum of urgencies and will impact LA choice.
 | **F**entanyl  | 100mcg                    |              |
 
 
-## Under spinal
+## CS with spinal
 A cesarean spinal mix should contain **Local anesthetic (LA)** + **Fent** +/- **morphine or dilaudid** +/- **Epi**
 
 |  **Component**  |     **Primary**     |     **Alternative**     |
@@ -81,7 +81,7 @@ A cesarean spinal mix should contain **Local anesthetic (LA)** + **Fent** +/- **
 - CSE is also an option if 12-48hrs of extended analgesia is needed
 - 2nd dose of neuraxial morphine can be given prior to epidural removal at ~18-24h mark
 
-## Under GA
+## CS with GETA
 Almost all GETA C-sections are emergent. Anes Att. (preferably OB) should **always** be present for induction. **No exceptions**
 - Preoxygenate immediately w/ 100% FiO2 by facemask
 - RSI w/ **hypnotic** + **succinylcholine** with **cricoid pressure** (required)
