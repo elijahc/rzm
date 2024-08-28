@@ -2,7 +2,7 @@
 title: CT Cheat sheet
 draft: false
 date: 2024-08-18
-tags: anes, ctanes
+tags: anes, acta
 ---
 
 ## Morning setup
@@ -37,6 +37,10 @@ tags: anes, ctanes
   - Bolus 400 U/kg
   - Followup 100 U/kg
 
+> [!tip] On Bypass Mnemonic: HAD2SUE
+> 
+> **H**eparin, **A**CT, **D**rugs/**D**rips, **S**wan, **U**rine, **E**mboli
+
 ### Cannulation
 - Reduce SBP to 90-100 before aortic cannulation
    - Decreases risk of dissection
@@ -48,6 +52,10 @@ tags: anes, ctanes
 - Monitor: BG, cerebral ox, UOP
 
 ### Coming off bypass
+
+> [!tip] Off-bypass mnemonic: WRMVP
+>
+> **W**arm, **R**hythm (NSR or pace), **M**onitors (turn on), **V**ent (turn on), **P**erfusion
 
 #### Coagulopathy
 - send plt/fibrinogen at 34C
