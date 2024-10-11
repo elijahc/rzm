@@ -16,4 +16,4 @@ This is a port of previous [short URL](https://intraop-links.carrd.co) for commo
 
 [preop doc](https://olucdenver-my.sharepoint.com/:f:/g/personal/elijah_christensen_cuanschutz_edu/EnJo6MXTNAZMgWwzHYjbnncBtD68wt_tRUnLWaEP2seP-g?e=uVSOYN)
 
-
+[uch teg manager](https://tegmgr-s-prod.uch.ad.pvt/Account/Login?returnUrl=%2F)
